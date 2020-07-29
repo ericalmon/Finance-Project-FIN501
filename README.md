@@ -7,7 +7,11 @@ We initially calculated the Efficient Frontier and obtained the optimal mix of s
 We also obtained and visulalized several metrics including:
 
 Daily Simple Returns
+
 Stock Volatility
+
 Stock Correlation
+
 Stock Covariance (Visualized covariance matrix)
+
 Stock returns according to CAPM, Mean Historical Return, James Stein Shrinkage, and EMA Historical Return methods. 
