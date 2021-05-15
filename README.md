@@ -27,8 +27,7 @@ Lessons Learned:
 ![image](https://user-images.githubusercontent.com/62811061/118344221-3130ba00-b4fb-11eb-9859-07cdfab859c7.png)
 
 
-**Bibliography
-**
+**Bibliography**
 
 Lee, J. (2020, June 17). JPMorgan Sounds Warning on Market Correlations at 20-Year Highs. Retrieved from https://www.bloomberg.com/news/articles/2020-06-17/jpmorgan-sounds-warning-on-market-correlations-at-20-year-highs
 Saad, A., & Ponczek, S. (2020, July 07). Retail investors who bought June dip favoured back-to-work stocks - BNN Bloomberg. Retrieved from https://www.bnnbloomberg.ca/retail-investors-who-bought-june-dip-favored-back-to-work-stocks-1.1461649
